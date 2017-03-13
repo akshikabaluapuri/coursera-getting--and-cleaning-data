@@ -83,7 +83,9 @@
 "fBodyBodyGyroJerkMag-mean()"   
 "fBodyBodyGyroJerkMag-std()"     
 "fBodyBodyGyroJerkMag-meanFreq()"
+
   ## Activity Labels 
+  
   Walking =  1  subject was  walking during the Test
   
   Walking_Upstairs = 2  subject was walking_upstairs during the Test
