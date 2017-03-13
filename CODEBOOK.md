@@ -85,7 +85,7 @@
 "fBodyBodyGyroJerkMag-std()"     
 "fBodyBodyGyroJerkMag-meanFreq()"
 
- ## Activity labels
+ ## Activity-labels
   
   Walking =  1  subject was  walking during the Test
   
