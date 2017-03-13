@@ -85,9 +85,14 @@
 "fBodyBodyGyroJerkMag-meanFreq()"
   ## Activity Labels 
   Walking =  1  subject was  walking during the Test
+  
   Walking_Upstairs = 2  subject was walking_upstairs during the Test
+  
   Walking_Downstairs = 3  subject was walking_downstairs during the Test
+  
   Sitting = 4  subject was sitting during the Test
+  
   Standing = 5 subject was standing during the Test
+  
   Laying = 6  subject was laying during the Test
   
