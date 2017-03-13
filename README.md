@@ -17,5 +17,5 @@ The R script, run_analysis.R, does the following:
 7 Create the tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
 
-The end result is in file tidy.txt# coursera-getting--and-cleaning-data.
+The end result is in file tidy.txt coursera-getting--and-cleaning-data.
 
