@@ -1,6 +1,7 @@
 # This Code book summaries the result data field in tidy.txt.
 ## Identifiers
 1 Subject - The data of the test subject.
+
 2 Activity - The type of dtaa perforemed when the corresponding measurements werw taken.
 ## Measurements
 "tBodyAcc-mean()-X"   
