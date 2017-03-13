@@ -3,6 +3,7 @@
 1 Subject - The data of the test subject.
 
 2 Activity - The type of dtaa perforemed when the corresponding measurements werw taken.
+
 ## Measurements
 "tBodyAcc-mean()-X"   
 "tBodyAcc-mean()-Y"       
@@ -84,7 +85,7 @@
 "fBodyBodyGyroJerkMag-std()"     
 "fBodyBodyGyroJerkMag-meanFreq()"
 
-  ## Activity Labels 
+ ## Activity labels
   
   Walking =  1  subject was  walking during the Test
   
