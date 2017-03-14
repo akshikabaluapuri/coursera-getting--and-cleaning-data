@@ -52,7 +52,7 @@ subject_data$Subject <- as.factor(subject_data$Subject)
 ddata <- melt(data, id = c("Subject", "Activity"))
 ddata.mean <- dcast(ddata, Subject+Activity ~ variable, mean)
 
-#write.table(ddata.mean, file = "text.txt", row.names = FALSE, col.names = TRUE, sep = ",")
+write.table(ddata.mean, file = "text.txt", row.names = FALSE, col.names = TRUE, sep = ",")
 
 View(ddata.mean)
 
